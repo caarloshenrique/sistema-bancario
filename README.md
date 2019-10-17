@@ -1,2 +1,2 @@
-# sistema-bancario-java
-Um sistema de transações bancárias desenvolvido em Java
+# sistema-bancario
+:moneybag: Um sistema de transações bancárias desenvolvido em Java
