@@ -4,7 +4,7 @@
 ## :rocket: Tecnologias utilizadas 
 O projeto foi feito utilizando as seguintes tecnologias:
 
-- [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
+- [Java](https://www.java.com/pt_BR/download/faq/java8.xml)
 {...}
 
 ## :clipboard: Pré-requisitos
