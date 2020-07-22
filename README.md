@@ -1,5 +1,5 @@
 # sistema-bancario
-:moneybag: Um sistema de transações bancárias desenvolvido em Java
+:moneybag: Um sistema de transações bancárias desenvolvido em Java.
 
 ## :rocket: Tecnologias utilizadas 
 O projeto foi feito utilizando as seguintes tecnologias:
